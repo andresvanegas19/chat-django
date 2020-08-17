@@ -8,3 +8,4 @@ In these modern days, a lot of people communicate daily, and this has lead to th
 Pusher is a library for making real-time applications and interactions.
 
 
+![](result_chat_app_django.gif)
